@@ -3,3 +3,4 @@
 ### [1.v-if和v-for哪个优先级高？如果两个同时出现，应该怎么优化得到更好的性能](https://github.com/yunlovebo/FEinterview/issues/1) 
 ### [2.Vue组件data选项为什么必须是个函数而Vue的根实例则没有此限制？](https://github.com/yunlovebo/FEinterview/issues/2)
 ### [3.vue中key的作用和工作原理](https://github.com/yunlovebo/FEinterview/issues/3)
+### [4.你怎么理解vue中的diff算法？](https://github.com/yunlovebo/FEinterview/issues/4)
