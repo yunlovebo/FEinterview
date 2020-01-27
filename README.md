@@ -4,3 +4,4 @@
 ### [2.Vue组件data选项为什么必须是个函数而Vue的根实例则没有此限制？](https://github.com/yunlovebo/FEinterview/issues/2)
 ### [3.vue中key的作用和工作原理](https://github.com/yunlovebo/FEinterview/issues/3)
 ### [4.你怎么理解vue中的diff算法？](https://github.com/yunlovebo/FEinterview/issues/4)
+### [5.谈谈你对MVC、MVP和MVVM的理解？](https://github.com/yunlovebo/FEinterview/issues/5)
