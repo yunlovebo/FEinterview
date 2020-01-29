@@ -6,3 +6,4 @@
 ### [4.你怎么理解vue中的diff算法？](https://github.com/yunlovebo/FEinterview/issues/4)
 ### [5.谈谈你对MVC、MVP和MVVM的理解？](https://github.com/yunlovebo/FEinterview/issues/5)
 ### [6.谈谈你对vue组件之间通信的理解？](https://github.com/yunlovebo/FEinterview/issues/6)
+### [7.你了解哪些vue性能优化方法？](https://github.com/yunlovebo/FEinterview/issues/7)
