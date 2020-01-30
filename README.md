@@ -7,3 +7,4 @@
 ### [5.谈谈你对MVC、MVP和MVVM的理解？](https://github.com/yunlovebo/FEinterview/issues/5)
 ### [6.谈谈你对vue组件之间通信的理解？](https://github.com/yunlovebo/FEinterview/issues/6)
 ### [7.你了解哪些vue性能优化方法？](https://github.com/yunlovebo/FEinterview/issues/7)
+### [8. 你知道vue3有哪些新特性吗？它们会带来什么影响？](https://github.com/yunlovebo/FEinterview/issues/8)
