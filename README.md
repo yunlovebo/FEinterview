@@ -9,3 +9,4 @@
 ### [7.你了解哪些vue性能优化方法？](https://github.com/yunlovebo/FEinterview/issues/7)
 ### [8. 你知道vue3有哪些新特性吗？它们会带来什么影响？](https://github.com/yunlovebo/FEinterview/issues/8)
 ### [9. vue如果想扩展某个现有的组件时应该怎么做？](https://github.com/yunlovebo/FEinterview/issues/9)
+### [10. vue的watch 和 computed 有什么区别？](https://github.com/yunlovebo/FEinterview/issues/10)
