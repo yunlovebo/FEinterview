@@ -11,3 +11,4 @@
 ### [9. vue如果想扩展某个现有的组件时应该怎么做？](https://github.com/yunlovebo/FEinterview/issues/9)
 ### [10. vue的watch 和 computed 有什么区别？](https://github.com/yunlovebo/FEinterview/issues/10)
 ### [11. 谈谈你对vue生命周期的理解？](https://github.com/yunlovebo/FEinterview/issues/11)
+### [12. 谈谈你对vuex使用及其理解？](https://github.com/yunlovebo/FEinterview/issues/12)
